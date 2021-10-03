@@ -1,82 +1,21 @@
-html {
-  position: relative;
+.background {
+  background-image: url(img/header.jpg);
+  background-size: cover;
 }
 
-body {
-  min-height: 200px;
-  background-color: rgb(237, 240, 252);
-  color: rgb(0, 0, 0);
-  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
-}
-
-/* .hr {
-  width: 200px;
-} */
-
-#about {
-  padding-top: 100px;
-  border-bottom: solid 0.5px;
-}
-
-.jumbotron {
-  color: #fff;
+.tittle {
+  padding-top: 80px;
+  color: rgb(255, 255, 255);
   background-color: rgb(58, 79, 199);
-  padding-top: 6rem;
+  font-family: "Miltonian Tattoo", cursive;
 }
 
-/* Visi-misi */
-/* .vismis {
-  background-color: blanchedalmond;
-  margin-top: 10px;
-  padding: 5%;
-} */
-/* proker */
-
-/* lawas */
-.visimisi {
-  color: white;
-  padding: 30px;
-  background-color: rgb(33, 51, 155);
+.logo img {
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
 }
 
-.hvisimisi {
-  margin-top: 10px;
-  margin-bottom: 50px;
-}
-
-.misi ul {
-  list-style: none;
-}
-
-.proker {
-  padding-top: 60px;
-}
-
-.list-proker ul {
-  list-style: none;
-}
-
-.psdm ul {
-  list-style: none;
-}
-.keroh ul {
-  list-style: none;
-}
-.deplu ul {
-  list-style: none;
-}
-.advo ul {
-  list-style: none;
-}
-
-.footer {
-  width: 100%;
-  height: 100px;
-  color: white;
-  background-color: rgb(58, 79, 199);
-}
-
-.footer a {
-  text-decoration: none;
-  color: violet;
+section h1 {
+  font-family: "Langar", cursive;
 }
