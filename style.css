@@ -12,8 +12,9 @@
 }
 
 .logo img {
-  width: 100px;
-  height: 100px;
+  margin-top: 20px;
+  width: 130px;
+  height: 130px;
   border: 5px solid rgb(49, 49, 49);
   border-radius: 50%;
 }
@@ -24,4 +25,16 @@ section h1 {
 
 ul {
   list-style-type: none;
+}
+
+.about {
+  padding-top: 100px;
+}
+
+.proker {
+  padding-top: 60px;
+}
+
+footer {
+  background-color: rgb(58, 79, 199);
 }
