@@ -6,6 +6,7 @@
 .tittle {
   padding-top: 80px;
   color: rgb(255, 255, 255);
+  text-shadow: 5px 5px rgb(49, 49, 49);
   background-color: rgb(58, 79, 199);
   font-family: "Miltonian Tattoo", cursive;
 }
@@ -18,4 +19,8 @@
 
 section h1 {
   font-family: "Langar", cursive;
+}
+
+ul {
+  list-style-type: none;
 }
