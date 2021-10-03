@@ -1,19 +1,38 @@
+html {
+  position: relative;
+}
+
 body {
-  background-color: rgb(212, 221, 252);
+  min-height: 200px;
+  background-color: rgb(237, 240, 252);
   color: rgb(0, 0, 0);
   font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
 }
 
-.about {
-  margin-top: 50px;
+/* .hr {
+  width: 200px;
+} */
+
+#about {
+  padding-top: 100px;
+  border-bottom: solid 0.5px;
 }
 
 .jumbotron {
   color: #fff;
-  background-color: rgb(33, 51, 155);
+  background-color: rgb(58, 79, 199);
   padding-top: 6rem;
 }
 
+/* Visi-misi */
+/* .vismis {
+  background-color: blanchedalmond;
+  margin-top: 10px;
+  padding: 5%;
+} */
+/* proker */
+
+/* lawas */
 .visimisi {
   color: white;
   padding: 30px;
@@ -51,8 +70,10 @@ body {
 }
 
 .footer {
+  width: 100%;
+  height: 100px;
   color: white;
-  background-color: rgb(33, 51, 155);
+  background-color: rgb(58, 79, 199);
 }
 
 .footer a {
