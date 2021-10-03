@@ -35,6 +35,12 @@ ul {
   padding-top: 60px;
 }
 
+.contact {
+  padding-top: 50px;
+}
+
 footer {
+  padding-bottom: 50px;
+  color: white;
   background-color: rgb(58, 79, 199);
 }
